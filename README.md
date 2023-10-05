@@ -2,4 +2,4 @@
 
 Work in progress (WIP)
 
-Deploying in progress
+Deploying in progress (DIP)
